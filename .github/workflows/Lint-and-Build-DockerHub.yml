@@ -44,4 +44,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: teak16/kii-demo-01:latest
+          tags: teak16/kii-demo-01:1.0
